@@ -1,0 +1,5 @@
+colores
+Fondo Rojo vino: 400E19
+Letras y resaltados/logo: E40347
+Letras en general: FFFFFF
+fondo inicio sesion: 9C2744
